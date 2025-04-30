@@ -8,7 +8,7 @@
 
 Hi, I'm Justin Peretz, a front-end developer and Computer Science student
 
-💻 I graduated from front-end web development courses, and I'm expanding my skills in modern frameworks
+💻 I have an Associates of Applied Science in App Development and Emerging Web Technologies, and I'm in the process of getting my Bachelor's in Computer Science at Kansas State University.
 
 🚀 I love writing code, problem solving and anything to do with code
 
