@@ -43,7 +43,7 @@ Hi, I'm Justin Peretz, a front-end developer and Computer Science student
 
 </div>
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
 <div style="text-align: center; margin: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=asaptyme&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
