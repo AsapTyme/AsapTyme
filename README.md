@@ -69,14 +69,14 @@ Hi, I'm Justin Peretz, a front-end developer and Computer Science student
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 20px;">
 
 <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 45%; min-width: 300px; margin: 10px;">
-  <h3>🗂️ react-projects</h3>
-  <p>Collection of my React.js projects and components</p>
+  <h3>🗂️ FHNW Robotics </h3>
+  <p>Robotics mockup for FHNW</p>
   <span style="background-color: #f1e05a; color: #000; padding: 3px 7px; border-radius: 3px; font-size: 12px;">JavaScript</span>
 </div>
 
 <div style="background-color: #1e1e2e; border-radius: 10px; padding: 15px; width: 45%; min-width: 300px; margin: 10px;">
-  <h3>🗂️ next-portfolio</h3>
-  <p>My personal portfolio website built with Next.js</p>
+  <h3>🗂️ Portfolio</h3>
+  <p>My personal portfolio website</p>
   <span style="background-color: #f1e05a; color: #000; padding: 3px 7px; border-radius: 3px; font-size: 12px;">JavaScript</span>
 </div>
 
